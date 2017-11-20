@@ -3,7 +3,7 @@ As part of my second-year internship, I chose to apply my statistical and econom
 
 The period I worked there was not anodyne. Tradelab developped its portfolio of clients in the agri-food sector, and seeked to exploit the data it collects which could be an asset for the signing of contracts, and it constituted my mission.
 I consider to have benefited from three main advantages for its smooth progress.
-The first is access to data, as the company can exclusively access information from users of the flagship sites of the company Webedia (Allocine.com, JeuxVideo.com, 750gr.com).
+The first is access to data, as the company can exclusively access information from users of the flagship sites of the company Webedia (Allocine.com, JeuxVideo.com, 750g.com).
 The second advantage was the technical framework through the available infrastructure, indeed we have the ability to configure clusters via the Google Cloud platform. Depending on the amount of data used and the complexity of the calculations performed, we use clusters composed of more or fewer virtual machines and whose machines have more or less Random-Access Memory (RAM).
 Finally, the quality of the Data Science team’s profiles and the widespread enthusiasm contributed to the evolution of my work under ideal conditions.
 
