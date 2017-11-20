@@ -15,6 +15,6 @@ We compared the systems of recommendations, conducting cross validations and cho
 The benefits of the systems of recommendation are twofold.
 First of all, it allows to send advertising banners to an individual, via the buying patterns and appetence for certain products of the individuals closed to him.
 Second of all, from the recipes recommended to an individual, we can spread banners according to the interests of the users who have consulted these recipes, by attracting more attention using the image of one recipe added to the banner.
-I am experiencing some regret as I did not have time to implement the methods I conceived for advertising campaigns of agri-food customers. These should be useful in the coming months.
+
 
 In conclusion, this experience was positive from every point of view. Firstly, I had the opportunity to do statistical learning and conduct statistical tests related to predictive marketing. Secondly, I improved my programming skills while discovering the Apache Spark infrastructure where I was able to run Python scripts. Finally, I have benefited from an ideal environment, a young and dynamic company where collaboration is paramount.
