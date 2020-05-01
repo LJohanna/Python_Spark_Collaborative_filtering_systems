@@ -11,10 +11,10 @@ My assignments were centered around the 750g.com website, which offers more than
 The first was to deduce sub-representations or over-representations of certain categories of recipes judiciously chosen, among the consumers of the products we deal with. In order to identify the signifi- cant results, we conducted statistical tests. The benefit of the analysis results is to target individuals who may be interested in the products considered.
 The second was more consequent, it consisted of setting up different systems of recommendations, from users to cooking recipes. Using different mathematical representations for users’ culinary profiles, and two similarity indices, I could link users according to their culinary tastes. For a given individual, we can thus obtain recipes recommendations according to those consulted by the users considered to be the closest to him.
 ￼Using similar mathematical representations for the different recipes, we are able to link users and recipes, and in this way recommend recipes to a given individual.
-We compared the systems of recommendations, conducting cross validations and choosing an ade- quate performance score.
+We compared the systems of recommendations, conducting control groups and treatment groups stats.
 The benefits of the systems of recommendation are twofold.
-First of all, it allows to send advertising banners to an individual, via the buying patterns and appetence for certain products of the individuals closed to him.
-Second of all, from the recipes recommended to an individual, we can spread banners according to the interests of the users who have consulted these recipes, by attracting more attention using the image of one recipe added to the banner.
+First of all, it allows to send advertising banners to individuals closed to an individual we knew he was interested in a product.
+Second of all, if we know people who tend to see one recipe tend to buy one product, we would advertise on the recipes recommended as well from this recipe.
 
 
 In conclusion, this experience was positive from every point of view. Firstly, I had the opportunity to do statistical learning and conduct statistical tests related to predictive marketing. Secondly, I improved my programming skills while discovering the Apache Spark infrastructure where I was able to run Python scripts. Finally, I have benefited from an ideal environment, a young and dynamic company where collaboration is paramount.
